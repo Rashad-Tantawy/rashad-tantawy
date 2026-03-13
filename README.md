@@ -13,7 +13,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rashad-tantawy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="[https://www.youtube.com/@YOUR_YOUTUBE](https://www.youtube.com/@Product-Craft)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="[https://www.udemy.com/user/YOUR_UDEMY](https://www.udemy.com/user/rashad-mohamed)"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,10 +47,13 @@ Not just shipping features — defining what to build, why it matters, and how i
 
 | Focus Area | Type | Status |
 |-----------|------|--------|
-| **AI-First Product Development** | Building | 🟢 Active |
-| **Go-to-Market Strategy** | Operating | 🟢 Active |
-| **MVP & End to End app builder** | Building | 🟢 Active |
-| **MBA — Strategic Management Track** | Learning | 🟢 Active |
+| **Building Products with AI** | Product Development | 🟢 Active |
+| **Go-to-Market Strategy** | GTM Execution | 🟢 Active |
+| **Product Vision & Strategy** | Strategic Leadership | 🟢 Active |
+| **SAFe Agile Implementation** | Agile @ Scale | 🟢 Active |
+| **MBA — Strategic Thinking** | Executive Development | 🔵 In Progress |
+| **Continuous Discovery** | Research & Validation | 🟡 Ongoing |
+| **OKR-Driven Roadmapping** | Planning & Alignment | 🟢 Active |
 
 ---
 
